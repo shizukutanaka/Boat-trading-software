@@ -1,0 +1,187 @@
+{
+  "Python Version": {
+    "status": "passed",
+    "message": "Python 3.12.10",
+    "timestamp": 1760850695.980256
+  },
+  "Directory: backend": {
+    "status": "passed",
+    "message": "Exists",
+    "timestamp": 1760850695.980793
+  },
+  "Directory: logs": {
+    "status": "passed",
+    "message": "Exists",
+    "timestamp": 1760850695.980793
+  },
+  "Directory: models": {
+    "status": "passed",
+    "message": "Exists",
+    "timestamp": 1760850695.980793
+  },
+  "Directory: data": {
+    "status": "passed",
+    "message": "Exists",
+    "timestamp": 1760850695.980793
+  },
+  "Environment Config": {
+    "status": "passed",
+    "message": ".env or .env.example found",
+    "timestamp": 1760850695.980793
+  },
+  "Import: FastAPI": {
+    "status": "passed",
+    "message": "fastapi available",
+    "timestamp": 1760850697.065233
+  },
+  "Import: Uvicorn": {
+    "status": "passed",
+    "message": "uvicorn available",
+    "timestamp": 1760850697.1970582
+  },
+  "Import: SQLAlchemy": {
+    "status": "passed",
+    "message": "sqlalchemy available",
+    "timestamp": 1760850697.690727
+  },
+  "Import: Pydantic": {
+    "status": "passed",
+    "message": "pydantic available",
+    "timestamp": 1760850697.690727
+  },
+  "Import: Asyncio": {
+    "status": "passed",
+    "message": "asyncio available",
+    "timestamp": 1760850697.690727
+  },
+  "Import: aiosqlite": {
+    "status": "passed",
+    "message": "aiosqlite available",
+    "timestamp": 1760850697.7097414
+  },
+  "Import: psutil": {
+    "status": "passed",
+    "message": "psutil available",
+    "timestamp": 1760850697.7410152
+  },
+  "Import: ccxt": {
+    "status": "passed",
+    "message": "ccxt available",
+    "timestamp": 1760850700.1032803
+  },
+  "Backend Module: enhanced_health_monitor": {
+    "status": "passed",
+    "message": "Module loaded successfully",
+    "timestamp": 1760850700.1871202
+  },
+  "Backend Module: performance_optimizer": {
+    "status": "passed",
+    "message": "Module loaded successfully",
+    "timestamp": 1760850700.2133203
+  },
+  "Health Monitor Creation": {
+    "status": "passed",
+    "message": "Monitor created",
+    "timestamp": 1760850700.2133203
+  },
+  "Health Monitor Start": {
+    "status": "passed",
+    "message": "Monitor started",
+    "timestamp": 1760850700.2138557
+  },
+  "Health Monitor Report": {
+    "status": "passed",
+    "message": "Status: critical",
+    "timestamp": 1760850702.232381
+  },
+  "Health Monitor Stop": {
+    "status": "passed",
+    "message": "Monitor stopped",
+    "timestamp": 1760850702.23293
+  },
+  "Optimizer Creation": {
+    "status": "passed",
+    "message": "Optimizer created",
+    "timestamp": 1760850702.23293
+  },
+  "Optimizer Start": {
+    "status": "passed",
+    "message": "Optimizer started",
+    "timestamp": 1760850703.2433493
+  },
+  "Optimizer Metrics Recording": {
+    "status": "passed",
+    "message": "Metrics recorded",
+    "timestamp": 1760850704.2473326
+  },
+  "Optimizer Parameters": {
+    "status": "passed",
+    "message": "7 parameters configured",
+    "timestamp": 1760850704.2473326
+  },
+  "Optimizer Stop": {
+    "status": "passed",
+    "message": "Optimizer stopped",
+    "timestamp": 1760850704.24786
+  },
+  "Database Connection": {
+    "status": "passed",
+    "message": "Connected to trading.db",
+    "timestamp": 1760850704.2577746
+  },
+  "Database Write": {
+    "status": "passed",
+    "message": "Table created",
+    "timestamp": 1760850704.2582893
+  },
+  "Database Read": {
+    "status": "passed",
+    "message": "Query executed",
+    "timestamp": 1760850704.2593234
+  },
+  "Log File Write/Read": {
+    "status": "passed",
+    "message": "Log file operations working",
+    "timestamp": 1760850704.2652152
+  },
+  "Model Directory": {
+    "status": "passed",
+    "message": "Model directory accessible",
+    "timestamp": 1760850704.2652152
+  },
+  "Data Directory": {
+    "status": "passed",
+    "message": "Data directory accessible",
+    "timestamp": 1760850704.2652152
+  },
+  "CPU Availability": {
+    "status": "failed",
+    "message": "CPU usage: 100.0%",
+    "timestamp": 1760850705.2688823
+  },
+  "Memory Availability": {
+    "status": "passed",
+    "message": "Available: 45.0 GB",
+    "timestamp": 1760850705.2694223
+  },
+  "Disk Space": {
+    "status": "passed",
+    "message": "Free: 657.7 GB",
+    "timestamp": 1760850705.2694223
+  },
+  "Basic Async": {
+    "status": "passed",
+    "message": "Async/await working",
+    "timestamp": 1760850705.3747826
+  },
+  "Concurrent Async": {
+    "status": "passed",
+    "message": "Results: [2, 4, 6]",
+    "timestamp": 1760850705.474836
+  },
+  "JSON Serialization": {
+    "status": "passed",
+    "message": "JSON encode/decode working",
+    "timestamp": 1760850705.474836
+  }
+}
